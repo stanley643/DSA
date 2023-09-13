@@ -27,4 +27,9 @@ User Defined Data Types
 -->In contrrast to primitive data types(int, float, char etc.), there is a concept of user defined data types.
 -->The operations and values of user defined data types are not specified in the language itself burt is spercified by the user.
 
-eg: Structure, Union and Enumeration 
+eg: Structure, Union and Enumeration
+
+Abstract Data Types (Adt)
+-->adt is like user defined data type which defines operations on values using functions without specifying what is there inside the function and how the operations are performed 
+
+eg: Stack ADT
