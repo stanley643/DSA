@@ -15,3 +15,16 @@ what is a Data Structure?
 a data structure is the systematic way to organize data so that it can be used efficiently
 
 eg arrays,
+
+
+what is a Data Type?
+
+two important things about data types:
+	1. Defines a certain domain orf values
+	2. Defines Operations allowed on those values
+
+User Defined Data Types
+-->In contrrast to primitive data types(int, float, char etc.), there is a concept of user defined data types.
+-->The operations and values of user defined data types are not specified in the language itself burt is spercified by the user.
+
+eg: Structure, Union and Enumeration 
