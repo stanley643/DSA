@@ -33,3 +33,9 @@ Abstract Data Types (Adt)
 -->adt is like user defined data type which defines operations on values using functions without specifying what is there inside the function and how the operations are performed 
 
 eg: Stack ADT
+
+
+
+TYPES OF DATA STRUCTURES
+-->Linear Data structures
+-->Non Linear Data structures
