@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+/** problems of dangling ptrs maybe segmentation fault like the one of this program */
 int* fun()
 {
 	int num = 10;
