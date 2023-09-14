@@ -37,5 +37,9 @@ eg: Stack ADT
 
 
 TYPES OF DATA STRUCTURES
--->Linear Data structures
--->Non Linear Data structures
+-->Linear Data structures eg. array, Queue, Stack, Linked List
+-->Non Linear Data structures eg. Tree, Graph,
+
+others
+-->Static Data Structures - memory is allocated at compile time
+-->Dynamic Data Structure - memory is allocated at run time
