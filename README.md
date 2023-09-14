@@ -43,3 +43,7 @@ TYPES OF DATA STRUCTURES
 others
 -->Static Data Structures - memory is allocated at compile time
 -->Dynamic Data Structure - memory is allocated at run time
+
+Efficiency of data structures is always measured in terms of TIME and SPace
+
+An IDEAL data structure could be the one that takes the least possible time for all its operatrions and consumes the least memory space
