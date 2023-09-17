@@ -14,7 +14,7 @@ struct student
 
 void print(char name[], int age, int roll, float marks)
 {
-	printf("%s %d %d %.2f", name, age, roll, marks);
+	printf("%s %d %d %.2f\n", name, age, roll, marks);
 }
 
 int main()
