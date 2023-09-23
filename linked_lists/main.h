@@ -6,6 +6,10 @@
 #include<stdlib.h>
 #include<unistd.h>
 
-
+struct node 
+{
+	int data;
+	struct node *link;
+}
 
 #endif
