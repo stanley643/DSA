@@ -1,6 +1,6 @@
 /**
  * node contains data and a link
- *
+ * a node is a self referencial structure
  */
 
 #include "main.h"
