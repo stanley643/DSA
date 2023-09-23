@@ -29,3 +29,5 @@ int main()
         var2.c = 'B';
         var2.ptr = NULL;
 
+	var1.ptr = &var2;
+
