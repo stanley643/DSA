@@ -15,3 +15,11 @@ struct code
 	char c;
 	struct code *ptr;
 };
+
+int main()
+{
+	struct code var1;
+
+	var1.i = 65;
+	var1.c = 'A';
+	var1.ptr = NULL;
