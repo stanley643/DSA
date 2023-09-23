@@ -6,10 +6,12 @@ int main()
 	head->data = 45;
 	head->link = NULL;
 
-	struct node *second = malloc(sizeof(struct node));
-	second->data = 98;
-	second->link = NULL;
-	head->link = second;
+	struct node *current = malloc(sizeof(struct node));
+	current->data = 98;
+	current->link = NULL;
+	head->link = current;
+
+
 
 	return 0;
 }
