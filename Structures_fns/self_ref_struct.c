@@ -6,3 +6,12 @@
  * 		struct self *ptr;
  * 	};
  */
+
+#include "main.h"
+
+struct code
+{
+	int i;
+	char c;
+	struct code *ptr;
+};
