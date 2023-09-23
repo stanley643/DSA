@@ -10,3 +10,7 @@ struct node
 	int data;
 	struct node *link;
 };
+
+int main()
+{
+	struct node *head = NULL;
