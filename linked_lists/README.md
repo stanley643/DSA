@@ -11,3 +11,6 @@ linked list is made up of nodes
 each node contains two parts:
 	1. data
 	2. link/address
+
+array is a sequential representation of a list while linked list is not.
+array list is stored concecatively in memory while listed list is strored radomly in memory 
