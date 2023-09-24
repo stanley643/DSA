@@ -16,5 +16,7 @@ int main()
 	current->link = NULL;
 
 	head->link->link = current;
+
+	count_of_nodes(head);
 	return 0;
 }
