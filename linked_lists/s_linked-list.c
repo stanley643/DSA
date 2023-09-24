@@ -10,8 +10,8 @@ int main()
 	current->data = 98;
 	current->link = NULL;
 	head->link = current;
-
-
-
+	
+	current	 = malloc(sizeof(struct node));
+	current-> data = 3;
 	return 0;
 }
