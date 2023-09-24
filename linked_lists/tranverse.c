@@ -7,4 +7,9 @@ void count_of_nodes(struct node *head)
 		printf("Linked List is empty");
 	struct node *ptr = NULL;
 	ptr = head;
-
+	
+	while (ptr != NULL)
+	{
+		count++;
+		ptr = ptr->link;
+	}
