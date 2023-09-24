@@ -12,4 +12,6 @@ struct node
 	struct node *link;
 }
 
+void count_of_nodes(struct node *head);
+
 #endif
