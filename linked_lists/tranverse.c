@@ -13,3 +13,5 @@ void count_of_nodes(struct node *head)
 		count++;
 		ptr = ptr->link;
 	}
+	printf("%d\n", count);
+}
